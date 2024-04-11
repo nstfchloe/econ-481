@@ -7,7 +7,7 @@
 
 
 def github() -> str:
-    return "https://github.com/nstfchloe/econ-481/blob/main/econ481HW1.ipynb"
+    return "https://github.com/nstfchloe/econ-481/blob/main/econ481PS2.py"
 
 
 # # Exercise 1
